@@ -1,3 +1,6 @@
+
+
+/* 5 de nota nesse aqui pqp */
 #include <stdio.h>
 
 int main(){
