@@ -1,3 +1,6 @@
+
+/* dificil pra caralho e tirei 7.5 */
+    
 #include <stdio.h>
 
 #define NUM 0
