@@ -1,3 +1,5 @@
+/* fiz com vontade e tirei 10, coloquei ate def pra cada termo kkkk */
+
 #include <stdio.h>
 
 double potencia(double base, double expoente){
